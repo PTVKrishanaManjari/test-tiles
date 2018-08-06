@@ -1,0 +1,77 @@
+[
+  { "title": "Google Docs Offline",
+    "description": "Get things done offline with the Google Docs family of products.",
+    "productIcon": "googledocs.jpg",
+    "details": {
+      "version": "1.6",
+      "size": "2.4mb"
+    }
+  },
+  { "title": "Cisco Webex Extension",
+    "description": "Get things done offline with the Google Docs family of products.",
+    "productIcon": "download.jpg",
+    "details": {
+      "version": "1.0",
+      "size": "2.9mb"
+    }
+  },
+  {
+    "title": "Redux Dev Tools",
+    "description": "Redux Dev Tools debugging application state changes",
+    "productIcon": "redux.png",
+    "details": {
+      "version": "1.1",
+      "size": "10.8mb"
+    }
+  },
+  { "title": "Google Docs Offline",
+    "description": "Get things done offline with the Google Docs family of products.",
+    "productIcon": "googledocs.jpg",
+    "details": {
+      "version": "1.6",
+      "size": "2.4mb"
+    }
+  },
+  { "title": "Cisco Webex Extension",
+    "description": "Get things done offline with the Google Docs family of products.",
+    "productIcon": "download.jpg",
+    "details": {
+      "version": "1.0",
+      "size": "2.9mb"
+    }
+  },
+  {
+    "title": "Redux Dev Tools",
+    "description": "Redux Dev Tools debugging application state changes",
+    "productIcon": "redux.png",
+    "details": {
+      "version": "1.1",
+      "size": "10.8mb"
+    }
+  },
+  { "title": "Google Docs Offline",
+    "description": "Get things done offline with the Google Docs family of products.",
+    "productIcon": "googledocs.jpg",
+    "details": {
+      "version": "1.6",
+      "size": "2.4mb"
+    }
+  },
+  { "title": "Cisco Webex Extension",
+    "description": "Get things done offline with the Google Docs family of products.",
+    "productIcon": "download.jpg",
+    "details": {
+      "version": "1.0",
+      "size": "2.9mb"
+    }
+  },
+  {
+    "title": "Redux Dev Tools",
+    "description": "Redux Dev Tools debugging application state changes",
+    "productIcon": "redux.png",
+    "details": {
+      "version": "1.1",
+      "size": "10.8mb"
+    }
+  }
+]
